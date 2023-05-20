@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/thuthuy2996"><img src="https://api.daily.dev/devcards/d9d7e01e1b174ec685226fdcca44d6b2.png?r=hel" width="400" alt="Nguyễn Thị Thu Thủy's Dev Card"/></a>
+
 <!--
 **ThuThuy2996/ThuThuy2996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
