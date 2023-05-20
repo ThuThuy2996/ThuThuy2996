@@ -1,6 +1,6 @@
 h2 > Thu Thủy </h2>
 <div align="center">
-  <a href="https://app.daily.dev/KhoaBugs"><img src="https://api.daily.dev/devcards/455cf7fc744447a186b1e52c9f076a9f.png?r=7t2" width="400" alt="KhoaBugs's Dev Card"/>
+<a href="https://app.daily.dev/thuthuy2996"><img src="https://api.daily.dev/devcards/d9d7e01e1b174ec685226fdcca44d6b2.png?r=hel" width="400" alt="Nguyễn Thị Thu Thủy's Dev Card"/></a>
 </a>
 </div>
 <div>
