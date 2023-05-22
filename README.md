@@ -1,4 +1,4 @@
-h2 > Thu Thủy </h2>
+<h2 > Thu Thủy </h2>
 <div align="center">
 <a href="https://app.daily.dev/thuthuy2996"><img src="https://api.daily.dev/devcards/d9d7e01e1b174ec685226fdcca44d6b2.png?r=hel" width="400" alt="Nguyễn Thị Thu Thủy's Dev Card"/></a>
 </a>
