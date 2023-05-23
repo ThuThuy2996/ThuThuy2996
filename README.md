@@ -65,7 +65,7 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <div align="center">
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
 
