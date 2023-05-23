@@ -12,7 +12,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=007ACC" alt="Android logo" title="Android" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=25BE30" alt="Android logo" title="Android" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
