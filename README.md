@@ -41,7 +41,7 @@
 
 
 
- <br>
+<br>
 <h2 align="center">Where to find me</h2>
 <br>
 <!-- https://icons8.com -->
@@ -60,5 +60,12 @@
   </a>
 </div>
 
+
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<div align="center">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 
