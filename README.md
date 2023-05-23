@@ -38,10 +38,10 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ThuThuy2996&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-<div align=center>
- 
-<h2 align="center">Where to find me</h2>
 
+ <br>
+<h2 align="center">Where to find me</h2>
+<br>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/NhuocHy.IT96" target="blank">
@@ -57,6 +57,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thuthuy-email" />
   </a>
 </div>
-  </div>
+
 
 
