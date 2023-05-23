@@ -64,8 +64,8 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<div align="center">
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-</div>
+<a href="#" target="_blank">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="846" height="150" alt="trungquandev-official" />
+</a>
 
 
