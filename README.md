@@ -8,6 +8,8 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/.Net-282C34?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNet logo" title="DotNet" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/csharp-282C34?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp logo" title="CSharp" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/SQLServer-282C34?logo=microsoftsqlserver&logoColor=F7DF1E" alt="SQL Server logo" title="SQLServer" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
